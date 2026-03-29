@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Custom FiveM Framework,etc..**
 
-- 👯 I’m currently working on 𝕂𝕀ℕ𝔾𝔻𝕆𝕄 [분 𝕂𝕀ℕ𝔾𝔻𝕆𝕄 분](https://discord.gg/F5bg6MZR9k)
+- 👯 I’m currently working on 𝕂𝕀ℕ𝔾𝔻𝕆𝕄 [♠┆𝓚𝓘𝓝𝓖𝓓𝓞𝓜 𝓕𝓐𝓜 ˣ⁶⁹](https://discord.gg/5XMEvwES9K)
 
 - 💬 Ask me about **QBCore,QBox**
 
