@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ! ! ❗ᴹ ᴿ ＶＩＳＨＷＡ 亗 ˣ⁶⁹┆♠ </h1>
+<h1 align="center">Hi 👋, I'm ᴹ ᴿ ＶＩＳＨＷＡ 亗 ˣ⁶⁹ </h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa69&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa69" /> </p>
